@@ -5,5 +5,5 @@ I enjoy building practical, scalable applications and continuously improving my 
 
 Currently focused on strengthening my technical foundation and preparing for professional opportunities in software development.
 
- 🔗 Connect with me
+ 🔗 Connect with me 
 🐦 [@DevSherkhane](https://x.com/DevSherkhane)  
