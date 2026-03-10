@@ -1,6 +1,6 @@
 #  Hi, I'm Dev
 
-Final Year AI & Data Science Student | Software Developer Intern @ MKCL
+Final Year AI & Data Science Student 
 
 Building practical, scalable applications with a focus on performance and clean architecture.
 Currently focused on strengthening my technical foundation and preparing for professional opportunities in software development.
